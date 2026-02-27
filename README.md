@@ -1,4 +1,4 @@
-# lain.py — Reverse Shell de Estudo
+# lain-rat — Reverse Shell de Estudo
 
 Reverse shell simples em Python desenvolvido para fins educacionais e testes em ambiente controlado.
 
