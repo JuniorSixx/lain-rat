@@ -95,6 +95,12 @@ cd C:\Users
 
 ---
 
+## Distribuição
+
+O binário compilado (`.exe`) **não é distribuído** neste repositório. Apenas o código fonte é disponibilizado. Compile na sua própria máquina seguindo as instruções acima.
+
+---
+
 ## Limitações
 
 - IP hardcoded no binário
